@@ -1,0 +1,495 @@
+[{
+  "_id": {
+    "$oid": "67d3a6bfe321f09d131ac6c0"
+  },
+  "userId": {
+    "$oid": "67d2b74f9db7aab3fe8f14d9"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67cc92018ddcb8c816073d24"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Chĩnh Hãng + Top Gamepad Chơi Game Tối Ưu Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67d3a6bfe321f09d131ac6c1"
+      }
+    }
+  ],
+  "totalPrice": 1399000,
+  "orderDate": {
+    "$date": "2025-03-14T03:47:11.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d3aa578baf780f3f3c4786"
+  },
+  "userId": {
+    "$oid": "67d2b74f9db7aab3fe8f14d9"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67cc92018ddcb8c816073d24"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Chĩnh Hãng + Top Gamepad Chơi Game Tối Ưu Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67d3aa578baf780f3f3c4787"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67cc928f8ddcb8c816073d27"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Đen Midnight Black Chĩnh Hãng Top Gamepad Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67d3aa578baf780f3f3c4788"
+      }
+    }
+  ],
+  "totalPrice": 2798000,
+  "orderDate": {
+    "$date": "2025-03-14T04:02:31.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d3b611d6a9aa3954e1c9cd"
+  },
+  "userId": {
+    "$oid": "67d2b74f9db7aab3fe8f14d9"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67cc928f8ddcb8c816073d27"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Đen Midnight Black Chĩnh Hãng Top Gamepad Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67d3b611d6a9aa3954e1c9ce"
+      }
+    }
+  ],
+  "totalPrice": 1399000,
+  "orderDate": {
+    "$date": "2025-03-14T04:52:33.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d3b806d6a9aa3954e1ca49"
+  },
+  "userId": {
+    "$oid": "67d2b74f9db7aab3fe8f14d9"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67cc92e08ddcb8c816073d2a"
+      },
+      "name": "Tay Cầm Sony DualShock 4 PS4 Cũ 2nd + Kèm Cáp USB Chơi Game Tối Ưu Cho PC / FO4 / FIFA ",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67d3b806d6a9aa3954e1ca4a"
+      }
+    }
+  ],
+  "totalPrice": 799000,
+  "orderDate": {
+    "$date": "2025-03-14T05:00:54.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d85c17e849ffd3cae131ba"
+  },
+  "userId": {
+    "$oid": "67d2b74f9db7aab3fe8f14d9"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67cc928f8ddcb8c816073d27"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Đen Midnight Black Chĩnh Hãng Top Gamepad Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67d85c17e849ffd3cae131bb"
+      }
+    }
+  ],
+  "totalPrice": 1399000,
+  "orderDate": {
+    "$date": "2025-03-17T17:29:59.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67da3f597d1fa26a22a3b500"
+  },
+  "userId": {
+    "$oid": "67d2b74f9db7aab3fe8f14d9"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67cc92018ddcb8c816073d24"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Chĩnh Hãng + Top Gamepad Chơi Game Tối Ưu Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67da3f597d1fa26a22a3b501"
+      }
+    }
+  ],
+  "totalPrice": 1399000,
+  "orderDate": {
+    "$date": "2025-03-19T03:51:53.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67defebd7e343ff9d60c5d36"
+  },
+  "userId": {
+    "$oid": "67def9e872cd45181ddca5f5"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67cc928f8ddcb8c816073d27"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Đen Midnight Black Chĩnh Hãng Top Gamepad Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67defebd7e343ff9d60c5d37"
+      }
+    }
+  ],
+  "totalPrice": 1399000,
+  "orderDate": {
+    "$date": "2025-03-22T18:17:33.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67defeef7e343ff9d60c5d58"
+  },
+  "userId": {
+    "$oid": "67dedf87d9e39a48f52485eb"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67cc928f8ddcb8c816073d27"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Đen Midnight Black Chĩnh Hãng Top Gamepad Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67defeef7e343ff9d60c5d59"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67cc92018ddcb8c816073d24"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Chĩnh Hãng + Top Gamepad Chơi Game Tối Ưu Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67defeef7e343ff9d60c5d5a"
+      }
+    }
+  ],
+  "totalPrice": 2798000,
+  "orderDate": {
+    "$date": "2025-03-22T18:18:23.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67df9592b30680232ec7255a"
+  },
+  "userId": {
+    "$oid": "67dedf87d9e39a48f52485eb"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67ce662dc6ead598de809e76"
+      },
+      "name": "Tay Cầm Sony DualShock 4 PS4 Chĩnh Hãng Màu Đỏ RED + Cáp USB Chơi Game Tối Ưu Cho PC / FO4 / FIFA | Hàng SONY Việt Nam",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67df9592b30680232ec7255b"
+      }
+    }
+  ],
+  "totalPrice": 1399000,
+  "orderDate": {
+    "$date": "2025-03-23T05:01:06.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67df966ab30680232ec72564"
+  },
+  "userId": {
+    "$oid": "67dedf87d9e39a48f52485eb"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67cc928f8ddcb8c816073d27"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Đen Midnight Black Chĩnh Hãng Top Gamepad Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67df966ab30680232ec72565"
+      }
+    }
+  ],
+  "totalPrice": 1399000,
+  "orderDate": {
+    "$date": "2025-03-23T05:04:42.880Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dfbf6227bc3ed983eac6f2"
+  },
+  "userId": {
+    "$oid": "67def9e872cd45181ddca5f5"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67cc92018ddcb8c816073d24"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Chĩnh Hãng + Top Gamepad Chơi Game Tối Ưu Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67dfbf6227bc3ed983eac6f3"
+      }
+    }
+  ],
+  "totalPrice": 1399000,
+  "orderDate": {
+    "$date": "2025-03-23T07:59:30.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dfbf7a27bc3ed983eac706"
+  },
+  "userId": {
+    "$oid": "67def9e872cd45181ddca5f5"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67cc928f8ddcb8c816073d27"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Đen Midnight Black Chĩnh Hãng Top Gamepad Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67dfbf7a27bc3ed983eac707"
+      }
+    }
+  ],
+  "totalPrice": 1399000,
+  "orderDate": {
+    "$date": "2025-03-23T07:59:54.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dfc08627bc3ed983eac714"
+  },
+  "userId": {
+    "$oid": "67def9e872cd45181ddca5f5"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67cc92018ddcb8c816073d24"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Chĩnh Hãng + Top Gamepad Chơi Game Tối Ưu Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67dfc08627bc3ed983eac715"
+      }
+    }
+  ],
+  "totalPrice": 1399000,
+  "orderDate": {
+    "$date": "2025-03-23T08:04:22.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dfc0c627bc3ed983eac725"
+  },
+  "userId": {
+    "$oid": "67def9e872cd45181ddca5f5"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67cc928f8ddcb8c816073d27"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Đen Midnight Black Chĩnh Hãng Top Gamepad Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67dfc0c627bc3ed983eac726"
+      }
+    }
+  ],
+  "totalPrice": 1399000,
+  "orderDate": {
+    "$date": "2025-03-23T08:05:26.859Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dfc16e27bc3ed983eac733"
+  },
+  "userId": {
+    "$oid": "67def9e872cd45181ddca5f5"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67cc92018ddcb8c816073d24"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Chĩnh Hãng + Top Gamepad Chơi Game Tối Ưu Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67dfc16e27bc3ed983eac734"
+      }
+    }
+  ],
+  "totalPrice": 1399000,
+  "orderDate": {
+    "$date": "2025-03-23T08:08:14.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dfc30627bc3ed983eac741"
+  },
+  "userId": {
+    "$oid": "67def9e872cd45181ddca5f5"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67cc928f8ddcb8c816073d27"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Đen Midnight Black Chĩnh Hãng Top Gamepad Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67dfc30627bc3ed983eac742"
+      }
+    }
+  ],
+  "totalPrice": 1399000,
+  "orderDate": {
+    "$date": "2025-03-23T08:15:02.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dfc4c127bc3ed983eac753"
+  },
+  "userId": {
+    "$oid": "67def9e872cd45181ddca5f5"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67cc92018ddcb8c816073d24"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Chĩnh Hãng + Top Gamepad Chơi Game Tối Ưu Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67dfc4c127bc3ed983eac754"
+      }
+    }
+  ],
+  "totalPrice": 1399000,
+  "orderDate": {
+    "$date": "2025-03-23T08:22:25.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dfd57d27bc3ed983eac7a9"
+  },
+  "userId": {
+    "$oid": "67def9e872cd45181ddca5f5"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67cc928f8ddcb8c816073d27"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Đen Midnight Black Chĩnh Hãng Top Gamepad Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67dfd57d27bc3ed983eac7aa"
+      }
+    }
+  ],
+  "totalPrice": 1399000,
+  "orderDate": {
+    "$date": "2025-03-23T09:33:49.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e050b68b2e14da2b8133aa"
+  },
+  "userId": {
+    "$oid": "67def9e872cd45181ddca5f5"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67cc92018ddcb8c816073d24"
+      },
+      "name": "Tay Cầm Sony DualSense 5 PS5 Chĩnh Hãng + Top Gamepad Chơi Game Tối Ưu Cho PC / FO4 / FIFA | HÀNG NHẬP KHẨU",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67e050b68b2e14da2b8133ab"
+      }
+    }
+  ],
+  "totalPrice": 1399000,
+  "orderDate": {
+    "$date": "2025-03-23T18:19:34.534Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "67dedf87d9e39a48f52485eb"
+  },
+  "username": "ABC",
+  "fullname": "Nguyễn Xuân Chiến",
+  "email": "abcbk@gmail.com",
+  "password": "$2b$10$hvJgr4pzDHfaLE1Y5GP98e3GF9XeUXgzWlrYp8ztyocmLVV0.8X0y",
+  "isAdmin": false,
+  "phone": "0836663285",
+  "address": "a",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-03-22T16:04:23.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:44:26.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67def9e872cd45181ddca5f5"
+  },
+  "username": "chien2003",
+  "fullname": "Nguyễn Xuân Chiến",
+  "email": "chiennxhe176221@fpt.edu.vn",
+  "password": "$2b$10$eF5v.87GdS4mfiiV8Z6YDOLNegWskNGCUVzVa1eJ0FWWvAxKNqESe",
+  "isAdmin": true,
+  "phone": "0836663285",
+  "address": "fpt",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-03-22T17:56:56.847Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:07:08.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e01b5b5e1b5461eef92099"
+  },
+  "username": "luuthequang",
+  "fullname": "luuthequang",
+  "email": "luuthequangbkvip@gmail.com",
+  "password": "$2b$10$sLw4AO.kWWC/1tA.Q5CBw.E0BCPunseVu.X/oCJ8WhO/.LpvOZhDy",
+  "isAdmin": false,
+  "phone": "0836663285",
+  "address": "luuthequang",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-03-23T14:31:55.448Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-23T17:47:04.987Z"
+  },
+  "__v": 0
+}]
